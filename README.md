@@ -12,7 +12,7 @@ This subheader was wirtten in vscode.
  The commanad *git status* --> Shows all files which were created, updated or deleted, BUT are NOT saved in a **commit** yet.
             EXAMPLE: - modified Files like this README file will be shown next to the RED word modified.
                      - created files will be shown under (Untracked files:) --> Track file using *git add .* Period (.) means track all files listed unter git status
-                                                                                                  - *git add neamOFfile.extentionOFfile*
+                                                                                                  - *git add nameOFfile.extentionOFfile*
 
 2. Use the command *git status* to make sure. It should show the changes in green. That means --> changes were tracked and ready to be committed.
 
